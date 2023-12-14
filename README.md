@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tednet0
 - 👀 I’m interested in learning of multiple languages
-- 🌱 I’m currently learning solidaty
+- 🌱 I’m currently learning solidaty and python
 - 💞️ I’m not looking to collaborate rn
 
 <!---
